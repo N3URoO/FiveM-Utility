@@ -1,4 +1,4 @@
-**A simple software🔢, which allows you to connect to a fivem server with the IP, the port, and the name you want to use in games.**
+**A simple software🔢, which allows you to connect to a fivem server with the IP, the port**
 
 **1: enter the server IP**.
 
